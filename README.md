@@ -1,4 +1,4 @@
-<img width="1380" height="949" alt="image" src="https://github.com/user-attachments/assets/7c32e629-60dc-4d71-9a49-1391e450c3d4" /><h1 align="center">Hey there 👋, I'm Sanyam Jain</h1>
+<h1 align="center">Hey there 👋, I'm Sanyam Jain</h1>
 <h3 align="center">Pre-final year | Mathematics and Computing @ IIT BHU</h3>
 
 ---
